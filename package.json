@@ -1,7 +1,14 @@
 {
   "name": "lighthouse-plugin-cinememe",
   "main": "./plugin.js",
-  "version": "0.2.0",
+  "version": "0.2.1",
+  "repository": "exterkamp/lighthouse-plugin-cinememe",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Shane Exterakmp",
+    "email": "shaneexterkamp5@gmail.com",
+    "url": "https://exterkamp.codes"
+  },
   "peerDependencies": {
     "lighthouse": "^5.0.0"
   }
